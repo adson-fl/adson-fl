@@ -1,7 +1,7 @@
  <h1 align="left">Ola <img src="https://web.archive.org/web/20221020035219/https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Adson Leite</h1>
 
 - 📚 estudante de analise e desenvolvimento de sistemas
-- 🚀 interessado na área de desenvolvimeto beck-end : atualmete usando Java
+- 🚀 interessado na área de desenvolvimeto beck-end : atualmete usando Java|C
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=adson-fl&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
