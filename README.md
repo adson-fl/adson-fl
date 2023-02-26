@@ -4,7 +4,7 @@
 - 🚀 interessado na área de desenvolvimeto beck-end : atualmete usando Java e C
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=adson-fl&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=adson-fl&&show_icons=false&theme=dracula&_all_commits=true&count_private=true"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adson-fl&layout=compact&theme_icons=true&theme=dracula"alt="maykbrito's most 
 languages"/>
 </p>
