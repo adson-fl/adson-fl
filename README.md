@@ -1,7 +1,7 @@
  <h1 align="left">Ola <img src="https://web.archive.org/web/20221020035219/https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Adson Leite</h1>
 
 - 📚 estudante de analise e desenvolvimento de sistemas > 4° Perioldo 
-- 🚀 interessado na área de desenvolvimeto: Com conhecimento em Java e C estudando JS, CSS e HTML. 
+- 🚀 enteressado na área de desenvolvimeto: Com conhecimento em Java e C estudando JS, CSS e HTML. 
 
 <div align="left">
 <img width="375em" src="https://github-readme-stats.vercel.app/api?username=adson-fl&show_icons=false&theme=dracula&_all_commits=true&count_private=true"/>
