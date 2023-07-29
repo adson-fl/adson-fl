@@ -9,23 +9,34 @@
 languages"/>
 </div>
 
-<kbd>Conhecimento em:</kbd>
+##
+
 <div style="display: inline_blok">
+<kbd align="center">
+ 
+<kbd>Conhecimento em:</kbd>
+<br/>
+<br/>
+
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-<br>
+</kbd>
 
+<kbd align="center">
+ 
 <kbd>Enteressado em:</kbd>
-<div style="display: inline">
- <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit" />
+<br/>
+<br/>
+
+<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit" />
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ </kbd>
 </div>
 
 <br/>
 
-<kbd>contatos</kbd>
+##
 
 <div>
   <a href = "mailto:adsonferreira585@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
