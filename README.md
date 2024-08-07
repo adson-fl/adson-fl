@@ -2,7 +2,7 @@
 
 - 📚 Formado em Analise e Desenvolvimento de Sistema
 - 🚀 Futuro cientista de dados.
-- :trollface: entusiasta da tecnologia.
+- :trollface: Entusiasta da tecnologia.
 
 <div align="left">
 <img width="440em" src="https://github-readme-stats.vercel.app/api?username=adson-fl&show_icons=false&theme=dracula&_all_commits=true&count_private=true"/>
