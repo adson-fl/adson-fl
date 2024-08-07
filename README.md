@@ -38,7 +38,7 @@ languages"/>
 </kbd>
 
 <kbd align="center">
-<kbd>Enteressado em:</kbd>
+<kbd>interessado em:</kbd>
 <br/>
 <br/>
 <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
